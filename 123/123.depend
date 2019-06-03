@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514099368 source:g:\学习\数据结构\课设\123\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<stdio.h>
+	<cstdlib>
+	<string>
+

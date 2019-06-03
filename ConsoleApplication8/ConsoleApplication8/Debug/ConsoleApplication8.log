@@ -1,0 +1,47 @@
+﻿生成启动时间为 2018/1/7 12:21:28。
+     1>项目“G:\学习\数据结构\课设\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "文件.cpp"
+         文件.cpp
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(10): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(11): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(22): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(23): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(36): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(37): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _putw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(715) : 参见“putw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(53): warning C4996: 'getw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(714) : 参见“getw”的声明
+     1>g:\学习\数据结构\课设\consoleapplication8\consoleapplication8\文件.cpp(54): warning C4996: 'getw': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getw. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(714) : 参见“getw”的声明
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\学习\数据结构\课设\ConsoleApplication8\Debug\ConsoleApplication8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\学习\数据结构\课设\ConsoleApplication8\Debug\ConsoleApplication8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\学习\数据结构\课设\ConsoleApplication8\Debug\ConsoleApplication8.lib" /MACHINE:X86 "Debug\文件.obj"
+         "Debug\源.obj"
+         "Debug\源1.obj"
+         "Debug\源2.obj"
+         "Debug\源3.obj"
+         ConsoleApplication8.vcxproj -> G:\学习\数据结构\课设\ConsoleApplication8\Debug\ConsoleApplication8.exe
+     1>已完成生成项目“G:\学习\数据结构\课设\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95
